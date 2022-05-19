@@ -1,0 +1,14 @@
+.logo {
+    background-image: url('../images/logo.png');
+    background-repeat: no-repeat;
+    display: block;
+    width: 104px;
+    height: 100%;
+    overflow: hidden;
+    background-position-y: 10px;
+    font-size: 0px;
+}
+.footer-a {
+    margin: 0 6px;
+    color: #ccc;
+}
